@@ -8,3 +8,7 @@ if ($line < $a) {
 if ($line > $a) {
 	echo ("Je mag beginnen met rijlessen!");
 }
+if ($line == $a) {
+	echo ("Je mag beginnen met rijlessen!");
+}
+?>
